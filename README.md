@@ -1,4 +1,3 @@
 # DistronX's Website
 
-The homepage for this GitHub account.
-A simple and elegant personal website.
+A simple and elegant personal website. Template from HTML5up.net.
